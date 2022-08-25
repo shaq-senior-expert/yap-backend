@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyText
+  rating: 1.5
+  useful_count: 1
+  funny_count: 1
+  cool_count: 1
+  user: one
+  business: one
+
+two:
+  content: MyText
+  rating: 1.5
+  useful_count: 1
+  funny_count: 1
+  cool_count: 1
+  user: two
+  business: two
